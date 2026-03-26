@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **g0deeper**, an idealist, cryptographer, programmer. Coding for a world with more freedom and privacy.
+I'm **canigodeeper**, an idealist, cryptographer, programmer. Coding for a world with more freedom and privacy.
 
 
 - 🌐 Built a series of **decentralized** network infrastructures. 
